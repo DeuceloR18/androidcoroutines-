@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coroutineskt</string>
+    <string name = "text_name">nombre</string>
+    <string name="text_email" >gmail</string>
+
+
+</resources>
